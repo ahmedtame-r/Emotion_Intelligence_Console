@@ -24,14 +24,6 @@ Pulsewave is a production-style deployment of a fine-tuned **DistilBERT** sequen
 
 The model itself was trained separately on a six-class collapse of the **GoEmotions** dataset. This repository is focused entirely on serving it well: a fast inference pipeline, a clear prediction breakdown, and an interface designed to feel like a real product rather than a notebook demo.
 
-## Demo
-
-<div align="center">
-<img src="docs/demo.gif" alt="Pulsewave demo" width="800"/>
-<br/>
-<sub>Replace with an actual screen recording or screenshot of the running app.</sub>
-</div>
-
 ## Features
 
 - **Six-class emotion detection** with a full confidence breakdown, not just a top label
